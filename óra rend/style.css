@@ -1,0 +1,28 @@
+table, th, td {
+    border: 2px solid black;
+    border-radius: 13px;
+  text-align: center;
+}
+  .cim {
+      font-style: italic;
+      text-align: center;
+      border-top: 10px;
+      border-bottom: 10px;
+      border-radius: 10px;
+      border-style: solid;
+      background-color:gainsboro;
+  }
+  
+   td {
+    background-color:honeydew;
+  }
+  table {
+    background-color:black;
+
+  }
+  th {
+    background-color:honeydew;
+  }
+  body {
+    background-color:floralwhite;
+  }
